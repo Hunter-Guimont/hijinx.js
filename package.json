@@ -1,0 +1,22 @@
+{
+  "name": "hijinx.js",
+  "version": "1.0.0",
+  "description": "Multi-use discord bot written with discord.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hunter-Guimont/hijinx.js.git"
+  },
+  "author": "Hunter Guimont",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hunter-Guimont/hijinx.js/issues"
+  },
+  "homepage": "https://github.com/Hunter-Guimont/hijinx.js#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
