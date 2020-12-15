@@ -1,2 +1,2 @@
-# hijinx.js
-Multi-purpose discord bot made with discord.js
+# Hijinx
+> Hijinx is a to-be multi-purpose Discord Bot built with discord.js.
